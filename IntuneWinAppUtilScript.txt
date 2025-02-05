@@ -1,0 +1,1 @@
+.\IntuneWinAppUtil.exe -c C:\Users\benjamin\Documents\Intune\SentinelOne -s SentinelOneInstaller_windows_64bit_v24_1_5_277.exe -o C:\Users\benjamin\Documents\Intune\SentinelOne
